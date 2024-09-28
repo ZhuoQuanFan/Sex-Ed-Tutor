@@ -1,0 +1,97 @@
+{
+  "post_id": "",
+  "post_title": "",
+  "post_body": "",
+  "post_url": "",
+  "ui_link": "",
+  "comments": [
+    {
+      "comment_id": "",
+      "comment_raw": "",
+      "comment_summary": "",
+      "critique": [
+        {
+          "sentence": "",
+          "ui_elements": [
+            {
+              "name": "",
+              "cluster": ""
+            }
+          ],
+          "concepts": [
+            {
+              "name": "",
+              "cluster": ""
+            }
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "name": "",
+          "cluster": ""
+        }
+      ]
+    }
+  ],
+  "suggestion": [
+    {
+      "sentence": "",
+      "ui_elements": [
+        {
+          "name": "",
+          "cluster": ""
+        }
+      ],
+      "concepts": [
+        {
+          "name": "",
+          "cluster": ""
+        }
+      ]
+    }
+  ],
+  "rationale": [
+    {
+      "sentence": "",
+      "ui_elements": [
+          {
+              "name": "",
+              "cluster": ""
+          }
+      ],
+      "concepts": [
+        {
+          "name": "",
+          "cluster": ""
+        }
+      ]
+    }
+  ],
+  "mentioned_ui_elements_cluster":[],
+  "mentioned_concept_clusters": [],
+  "questions": "",
+  "question_id": "",
+  "raw_critique": "",
+  "select_design_concept": {
+    "name": "",
+    "pos_tag": "",
+    "cluster": ""
+  },
+  "mention_ui_elements": [
+    {
+      "name": "",
+      "pos_tag": "",
+      "cluster": ""
+    }
+  ],
+  "question": "",
+  "right_answer": "",
+  "explanation": "",
+  "ui_elements": "",
+  "answer_cluster": "",
+  "answer_pos_tag": "",
+  "other_option_1": "",
+  "other_option_2": "",
+  "hint": ""
+}

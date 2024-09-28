@@ -1,0 +1,37 @@
+[
+  {
+    "post_id": "rhbmcj",
+    "post_title": "My first mobile app UI design",
+    "post_body": "Hello guys! This is my first message here, so let me introduce myself briefly: My name is Filip, I come from Poland, and I'm 26 years old. Nice to meet you all. I'd like to present to you my first UI design of an app that is based on educating people about mental health but also with a feature of writing a diary and letting you know when to take meds. Because this is my very first design, I'd like you guys to give me an honest opinion on it; may it be the choice of colors, alignment of the elements, buttons, or whatever you like or dislike and think could be improved. Please be as picky as you can, because I want to learn from my mistakes! Thank you in advance!https://preview.redd.it/g10par1nbs581.png?width=1504&amp;format=png&amp;auto=webp&amp;s=7b0d0793a27c39d72d54f2539429970332ae7bc8",
+    "post_url": "https://www.reddit.com/r/UI_Design/comments/rhbmcj/my_first_mobile_app_ui_design/",
+    "ui_link": "./image\\meq49y.png",
+    "comments": ['all comments of this post'],
+    "mentioned_ui_elements_clusters": [
+      "other_small_elements",
+      "icon_element",
+      "layout_element",
+      "button_element"
+    ],
+    "mentioned_concept_clusters": [
+      "layout_design",
+      "format_design",
+      "color_design"
+    ],
+    "question_id": "233",
+    "raw_critique": "raw_critique",
+    "select_design_concept": {
+                "name": "xxx",
+                "pos_tag": "xxx",
+                "cluster": "layout_design"
+              },
+    "mentioned_ui_elements": [{
+                "name": "the ui elements that mentioned in this raw critique",
+                "pos_tag": "xxx",
+                "cluster": "layout_element"
+              }],
+    "question": "process raw critique, mask the design concept with a blank ________. Note that if there is 'a' or 'an' in front of the design concept, mask 'a' or 'an' and put it into the right answer",
+    "right_answer": "the masked design concept",
+    "other_options": "two options randomly select from the mentioned design concepts with the same pos tag as the right answer under the posts",
+    "explanation": "the 'comment_summary' that contains the raw critique; add a label before each sentence, e.g., (rationale) sentence1. (critique) sentence2. (suggestion) sentence3"
+  }
+]
