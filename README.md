@@ -28,17 +28,17 @@
 ### step 1: 知识学习
 
 #### 选择主题
-![alt text](image-7.png)
+![alt text](/intro/image-7.png)
 根据主试的提示，您需要选择以下三个主题中的某一主题。请注意，本次实验中，所有的并列按钮在某一按钮点击后，其他按钮将不再被激活。
 
 #### 知识学习
-![alt text](image-8.png)
+![alt text](/intro/image-8.png)
 
 学习1
 
 ---
 
-![alt text](image-9.png)
+![alt text](/intro/image-9.png)
 
 学习2
 
@@ -50,15 +50,15 @@
 #### 提问
 
 如果您有问题，在点击**I have some questions to ask!**后，
-![alt text](image-10.png)
+![alt text](/intro/image-10.png)
 您可以在系统回复**Feel free to ask**后，提出您的问题。
-![alt text](image-11.png)
+![alt text](/intro/image-11.png)
 若您依然有问题，可以再次点击**I have some questions to ask!**，并重复以上环节，直到您不再有问题。
 
 ---
 
 若您不再有问题，点击**I already understand!**
-![alt text](image-12.png)
+![alt text](/intro/image-12.png)
 
 最终，第一步学习结束，我们将步入第二阶段。
 
@@ -68,22 +68,22 @@
 在这一步，我们会为您提供社区中有关主题的帖子内容和帖子回复，您可以身临其境地加入他们的讨论，提出您的想法，直到您想结束讨论。
 
 #### 阅读帖子
-![alt text](image-13.png)
+![alt text](/intro/image-13.png)
 根据推荐帖子，您在阅读后，若感到仍有疑惑，可以请求导师为您解答。您可以点击**I didn't understand the post**, 导师会为您悉心解答。
 
-![alt text](image-14.png)
+![alt text](/intro/image-14.png)
 
 若您还有问题，我想您应该知道怎么做。
 没错，点击**I still have some questions.**
 在系统提示**Feel free to ask**后，您可以再提出您的问题，并不断重复此流程，直到您的流程被解答。
-![alt text](image-15.png)
+![alt text](/intro/image-15.png)
 
 ---
 
 #### 展示评论
 若您不再有问题，并想查看该帖子下的一些评论，您可以点击**Show me comments**，系统会为您推荐相关评论。
 
-![alt text](image-16.png)
+![alt text](/intro/image-16.png)
 
 如果您想查看更多评论，请点击**Show me more comments**
 如果您想提前结束本条帖子与其下评论的讨论，请点击**End the display of comments**
@@ -92,16 +92,16 @@
 ---
 
 #### 与导师讨论
-![alt text](image-17.png)
+![alt text](/intro/image-17.png)
 
 如您所见，导师会盛情邀请您参加讨论。邀请下方是一些推荐问题，**您可以选择提出自己的问题，亦可以选择并点击某一个推荐问题进行提问。**
 
-![alt text](image-18.png)
+![alt text](/intro/image-18.png)
 
 若您仍有问题，点击**I still have some questions!**，与前序提问流程一致。
 
 若您没有问题，请点击**I got it**
-![alt text](image-19.png)
+![alt text](/intro/image-19.png)
 
 #### 讨论暂时结束
  
@@ -121,27 +121,27 @@
 **另外，导师提出问题需要时间进行思考，请您在一定时间内保持耐心，等待导师的回复。**
 
 #### 阅读情景
-![alt text](image-21.png)
+![alt text](/intro/image-21.png)
 读完了情景，请点击**I've completed reading**
 
 #### 问题1
 点击**Let's go**后，接下来，导师将为您提供第一个问题，请保持等待。
-![alt text](image-22.png)
+![alt text](/intro/image-22.png)
 
 **请注意，如考试一般，一旦试题发出，就不能再更换试题，所以请根据导师提出的问题进行回答。请一次性完成您的作答，不要在交卷后再试图更改答案。**
 
 #### 回答问题1
-![alt text](image-23.png)
+![alt text](/intro/image-23.png)
 回答完后，答案将被导师汇总，您准备就绪后，便可点击按钮，导师将评估您的答案。**请注意，在导师评估的过程中，不要打断她的发言。**
 
 #### 导师评价
-![alt text](image-24.png)
+![alt text](/intro/image-24.png)
 
 **问题2和评价2流程一致。**
 
 
 #### 例子
-![alt text](image-25.png)
+![alt text](/intro/image-25.png)
 
 
 ### 最终
